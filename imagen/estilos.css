@@ -1,0 +1,42 @@
+header
+{
+    background-color: deeppink;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+body{ 
+font-family: Arial, Helvetica;
+background: #e8e8e8;
+
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #092327;
+    width: 90%;
+    max-width: 450px;
+    margin: auto;
+
+}
+
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 20px;
+display: inline-block;
+
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+
+}
+
+.menu li a{
+    background: deeppink;
+}
+
